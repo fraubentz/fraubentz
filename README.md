@@ -3,7 +3,7 @@
 <h2>Languages:</h2>
 <h3>HTML | CSS | Tailwind | JS | Python</h3>
 
-<h2>Systems:</h2>
+<h2>Systems and Platforms:</h2>
 <h3>Win | Linux | MacOS | Android | Docker | WSL</h3>
 
 <h2>Currently working on:</h2>
