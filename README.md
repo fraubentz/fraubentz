@@ -1,4 +1,7 @@
 <h1>Welcome! Willkommen!</h1>
+<h3>Hailing from Western Canada, I have two decades of experience working with non-profits, NGOs and institutions, covering communications, fundraising, organisational strategy and team management.</h3>
+
+<br><br><br>
 
 <h2>Languages:</h2>
 <h3>HTML | CSS | Tailwind | JS | Python</h3>
