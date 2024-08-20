@@ -3,6 +3,9 @@
 
 <br><br><br>
 
+<h2>Education:</h2>
+History
+
 <h2>Languages:</h2>
 <h3>HTML | CSS | Tailwind | JS | Python</h3>
 
@@ -12,11 +15,11 @@
 <h2>Systems and Platforms:</h2>
 <h3>Win | Linux | MacOS | Android | Docker | WSL</h3>
 
-<h2>Currently working on:</h2>
+<h2>Currently Learning:</h2>
 <h3>JS/React/Node.js | SageMath | LaTeX</h3>
 
 <h2>Topics of Interest:</h2>
-<h3>AI/Language Models | Full-Stack Dev</h3>
+<h3>AI/Language Models | Full-Stack Dev</h3> | History of Science
 
 
 
