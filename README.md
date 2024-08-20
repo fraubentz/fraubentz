@@ -4,7 +4,7 @@
 <br><br><br>
 
 <h2>Education:</h2>
-History
+<h3>History</h3>
 
 <h2>Languages:</h2>
 <h3>HTML | CSS | Tailwind | JS | Python</h3>
