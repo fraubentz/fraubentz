@@ -19,7 +19,7 @@
 <h3>JS/React/Node.js | SageMath | LaTeX</h3>
 
 <h2>Topics of Interest:</h2>
-<h3>AI/Language Models | Full-Stack Dev</h3> | History of Science
+<h3>AI/Language Models | Full-Stack Dev | History of Science</h3>
 
 
 
