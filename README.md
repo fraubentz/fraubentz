@@ -1,25 +1,27 @@
 <h1>Welcome! Willkommen! Bem-Vindo!</h1>
-<h3>Hailing from Western Canada, I have two decades of experience working with non-profits, NGOs and institutions, covering communications, fundraising, organisational strategy and team management.</h3>
 
-<br><br><br>
+<br><br>
+<h3>Education:</h3>
+<p>History</p>
 
-<h2>Education:</h2>
-<h3>History</h3>
+<h3>Languages:</h3>
+<p>HTML | CSS | Tailwind | JS | Python</p>
 
-<h2>Languages:</h2>
-<h3>HTML | CSS | Tailwind | JS | Python</h3>
+<h3>Natural Languages:</h3>
+<p>English (US/BR) | Cantonese | German | Portuguese (PT)</p>
 
-<h2>Natural Languages:</h2>
-<h3>English (US/BR) | Cantonese | German | Portuguese (PT)</h3>
+<h3>Systems and Platforms:</h3>
+<p>Win | Linux | MacOS | Android | Docker | WSL</p>
 
-<h2>Systems and Platforms:</h2>
-<h3>Win | Linux | MacOS | Android | Docker | WSL</h3>
+<h3>Currently Learning:</h3>
+<p>JS/React/Node.js | SageMath | LaTeX</p>
 
-<h2>Currently Learning:</h2>
-<h3>JS/React/Node.js | SageMath | LaTeX</h3>
+<h3>Topics of Interest:</h3>
+<p>AI | Full-Stack Dev | History of Science</p>
 
-<h2>Topics of Interest:</h2>
-<h3>AI/Language Models | Full-Stack Dev | History of Science</h3>
+<h3>Current Projects:</h3>
+<p>A fictitious conference website [HTML | CSS | JS]</p>
+<img src="https://fraubentz.github.io/SCM.jpg" width="500" height="auto">
 
 
 
