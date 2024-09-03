@@ -1,6 +1,5 @@
 <h1>Welcome! Willkommen! Bem-Vindo!</h1>
 
-<br><br>
 <h3>Education:</h3>
 <p>History</p>
 
