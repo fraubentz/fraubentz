@@ -20,7 +20,7 @@
 
 <h3>Current Projects:</h3>
 <p>A fictitious conference website [HTML | CSS | JS]</p>
-<img src="https://fraubentz.github.io/SCM.jpg" width="500" height="auto">
+<img src="https://fraubentz.github.io/img/SCM.jpg" width="500" height="auto">
 
 
 
