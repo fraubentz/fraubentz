@@ -20,6 +20,7 @@ AI | Full-Stack Dev | History of Science
 
 ### Current Projects:
 A fictitious conference website [HTML | CSS | JS]
+
 <img src="https://fraubentz.github.io/img/SCM.jpg" width="500" height="auto">
 
 
