@@ -1,27 +1,29 @@
-<h1>Welcome! Willkommen! Bem-Vindo!</h1>
 
-<h3>Education:</h3>
-<p>History</p>
+---
+### Education:
+History
 
-<h3>Languages:</h3>
-<p>HTML | CSS | Tailwind | JS | Python</p>
+### Languages:
+HTML | Markdown | CSS | Tailwind | JS | Python
 
-<h3>Natural Languages:</h3>
-<p>English (US/BR) | Cantonese | German | Portuguese (PT)</p>
+### Natural Languages:
+English (US/BR) | Cantonese | German | Portuguese (PT)
 
-<h3>Systems and Platforms:</h3>
-<p>Win | Linux | MacOS | Android | Docker | WSL</p>
+### Systems and Platforms:
+Win | Linux | MacOS | Android | Docker | WSL
 
-<h3>Currently Learning:</h3>
-<p>JS/React/Node.js | SageMath | LaTeX</p>
+### Currently Learning:
+JS/React/Node.js | SageMath | LaTeX
 
-<h3>Topics of Interest:</h3>
-<p>AI | Full-Stack Dev | History of Science</p>
+### Topics of Interest:
+AI | Full-Stack Dev | History of Science
 
-<h3>Current Projects:</h3>
-<p>A fictitious conference website [HTML | CSS | JS]</p>
+### Current Projects:
+A fictitious conference website [HTML | CSS | JS]
 <img src="https://fraubentz.github.io/img/SCM.jpg" width="500" height="auto">
 
+
+---
 
 
 
