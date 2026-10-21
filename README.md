@@ -22,7 +22,7 @@
 
 ## About me
 
-I build small but meaningful web projects, experiments, and handcrafted interfaces that are intentionally readable, lightweight, and human-centred.
+I build small but meaningful web projects, experiments, and handcrafted interfaces that are intentionally readable, lightweight, secure, and human-centred.
 
 ---
 
