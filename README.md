@@ -46,7 +46,7 @@ I enjoy creating interfaces that are simple to understand, functional in practic
 - 🌱 Building a portfolio that reflects my work clearly and intentionally
 - 🧩 Exploring clean UI patterns and responsive layouts
 - 📁 Developing small tools and polished frontend ideas
-- 🛠️ Balancing simplicity, usability, and performance in my projects
+- 🛠️ Balancing simplicity, usability, security, and performance in my projects
 
 ---
 
