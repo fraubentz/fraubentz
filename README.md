@@ -6,11 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=fraubentz&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" alt="Profile views" />
 </p>
 
-<h1 align="center">Hello everyone! Hallo zusammen! 👋</h1>
+<h1 align="center">Hello everyone! Hallo zusammen!</h1>
 
-<p align="center">
-  I’m <b>PY Liu</b> — a hobbyist who enjoys building thoughtful, minimal, and user-friendly web experiences.
-</p>
 
 <p align="center">
   <a href="https://fraubentz.github.io" target="_blank">
@@ -25,10 +22,7 @@
 
 ## About me
 
-- 🌐 I build websites and small interactive experiences
-- 🎨 I care about clean design, usability, accessibility, and security
-- 💡 I enjoy turning ideas into simple, elegant interfaces
-- 🚀 My current focus is frontend work
+I build small but meaningful web projects, experiments, and handcrafted interfaces that are intentionally readable, lightweight, and human-centred.
 
 ---
 
