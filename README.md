@@ -53,7 +53,7 @@ I enjoy creating interfaces that are simple to understand, functional in practic
 ## Featured projects
 
 - GAP Playground — https://gap-online.pages.dev
-- A cavaquinho dictionary — https://cavaquinho-abc.pages.dev
+- A cavaquinho chord dictionary — https://cavaquinho-abc.pages.dev
 
 ---
 
