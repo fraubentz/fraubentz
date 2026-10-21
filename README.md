@@ -21,9 +21,9 @@
 
 ## About me
 
-I build small but meaningful web projects, experiments, and handcrafted interfaces. My focus is on creating experiences that are readable, lightweight, secure, and genuinely useful to people.
+I design and build small, useful web projects with a focus on clarity, usability, and thoughtful interaction. My work is guided by a preference for clean layouts, lightweight experiences, and digital products that feel considered rather than crowded.
 
-I care about clean structure, thoughtful design, and digital products that feel calm rather than cluttered.
+I enjoy creating interfaces that are simple to understand, functional in practice, and visually intentional.
 
 ---
 
@@ -44,9 +44,9 @@ I care about clean structure, thoughtful design, and digital products that feel 
 ## Current focus
 
 - 🌱 Building a portfolio that reflects my work clearly and intentionally
-- 🧩 Experimenting with clean UI patterns and responsive layouts
-- 📁 Exploring small tools, useful interactions, and polished frontend ideas
-- 🛠️ Improving the balance between simplicity, performance, and design quality
+- 🧩 Exploring clean UI patterns and responsive layouts
+- 📁 Developing small tools and polished frontend ideas
+- 🛠️ Balancing simplicity, usability, and performance in my projects
 
 ---
 
