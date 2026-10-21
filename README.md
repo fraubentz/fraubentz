@@ -66,9 +66,6 @@ I build small but meaningful web projects, experiments, and handcrafted interfac
   <a href="https://fraubentz.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20site-0A66C2?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
-  <a href="mailto:pybentz@duck.com">
-    <img src="https://img.shields.io/badge/Email-Contact-me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
